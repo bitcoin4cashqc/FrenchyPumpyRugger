@@ -27,7 +27,7 @@ The system handles wallet creation, token deployment, liquidity detection, trans
 
 ## Video Demonstration
 
-[![YouTube Demo](https://img.youtube.com/vi/B2dB0DSnaHk/0.jpg)](https://www.youtube.com/watch?v=B2dB0DSnaHk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2dB0DSnaHk?si=g_S9PdbCtN3R6UeF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
